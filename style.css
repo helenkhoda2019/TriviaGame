@@ -1,13 +1,14 @@
-body{background-image:url("redbackground.jpg");
-
+body{
+    background-image:url("./redbackground.jpg");
 }
 
 .header{
-        background-color:burlywood;
-        margin: 10px;
-        
-        margin:10%;}
+    background-color:burlywood;
+    margin: 10px;
+    margin:10%;
+    
+}
 
-        h1{
-            font:blue;
-        }
+h1{
+    color:blue;
+}
